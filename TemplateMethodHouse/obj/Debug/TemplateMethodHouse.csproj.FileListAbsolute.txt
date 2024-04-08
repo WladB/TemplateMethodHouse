@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TemplateMethodHouse\TemplateMethodHouse\obj\Debug\TemplateMethodHouse.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TemplateMethodHouse\TemplateMethodHouse\obj\Debug\TemplateMethodHouse.Properties.Resources.resources
+C:\Users\User\source\repos\TemplateMethodHouse\TemplateMethodHouse\obj\Debug\TemplateMethodHouse.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TemplateMethodHouse\TemplateMethodHouse\obj\Debug\TemplateMethodHouse.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TemplateMethodHouse\TemplateMethodHouse\bin\Debug\TemplateMethodHouse.exe.config
+C:\Users\User\source\repos\TemplateMethodHouse\TemplateMethodHouse\bin\Debug\TemplateMethodHouse.exe
+C:\Users\User\source\repos\TemplateMethodHouse\TemplateMethodHouse\bin\Debug\TemplateMethodHouse.pdb
+C:\Users\User\source\repos\TemplateMethodHouse\TemplateMethodHouse\obj\Debug\TemplateMethodHouse.Form1.resources
+C:\Users\User\source\repos\TemplateMethodHouse\TemplateMethodHouse\obj\Debug\TemplateMethodHouse.exe
+C:\Users\User\source\repos\TemplateMethodHouse\TemplateMethodHouse\obj\Debug\TemplateMethodHouse.pdb
